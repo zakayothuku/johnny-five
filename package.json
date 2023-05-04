@@ -170,7 +170,7 @@
     "grunt": "^1.4.1",
     "grunt-cli": "^1.4.3",
     "grunt-contrib-jshint": "^2.1.0",
-    "grunt-contrib-nodeunit": "^2.0.0",
+    "grunt-contrib-nodeunit": "^5.0.0",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-jsbeautifier": "^0.2.13",
     "grunt-jscs": "^3.0.1",
